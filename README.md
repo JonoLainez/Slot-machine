@@ -1,2 +1,2 @@
-# Slot-machine
-Python coding slot machine
+# Slot Machine
+Python Project making a slot machine 
